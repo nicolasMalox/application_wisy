@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818638821075",
+    "project_id": "fir-wisy",
+    "storage_bucket": "fir-wisy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818638821075:android:c7d960afd54337891c6626",
+        "android_client_info": {
+          "package_name": "com.example.application_wisy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wyQYW884gSgTnIaqj0hyzWoSGrBwKjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
